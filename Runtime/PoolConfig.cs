@@ -6,7 +6,7 @@ namespace Pool.Runtime
     /// PoolConfig is a ScriptableObject that holds configuration data for object pools.
     /// It contains an array of PoolDatum, each of which defines the settings for a specific pool.
     /// </summary>
-    [CreateAssetMenu(fileName = "PoolConfig", menuName = "HMPool/PoolConfig")]
+    [CreateAssetMenu(fileName = "PoolConfig", menuName = "Pool/PoolConfig")]
     public sealed class PoolConfig : ScriptableObject
     {
         #region Fields
