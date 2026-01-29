@@ -1,10 +1,10 @@
 ﻿using System.Collections;
-using HMPool.Runtime;
 using NUnit.Framework;
+using Pool.Runtime;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace HMPool.Tests.PlayMode
+namespace Pool.Tests.PlayMode
 {
     public sealed class PoolServicePlayModeTests
     {

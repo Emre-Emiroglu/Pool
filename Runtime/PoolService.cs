@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Assertions;
 using Object = UnityEngine.Object;
 
-namespace HMPool.Runtime
+namespace Pool.Runtime
 {
 	/// <summary>
 	/// The PoolService class manages and operates the object pools for both MonoBehaviour and non-MonoBehaviour based poolable objects.

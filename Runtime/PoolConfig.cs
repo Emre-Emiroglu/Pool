@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMPool.Runtime
+namespace Pool.Runtime
 {
     /// <summary>
     /// PoolConfig is a ScriptableObject that holds configuration data for object pools.

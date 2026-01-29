@@ -1,4 +1,4 @@
-﻿namespace HMPool.Runtime
+﻿namespace Pool.Runtime
 {
     /// <summary>
     /// Abstract class to be inherited by non-MonoBehaviour-based poolable objects.

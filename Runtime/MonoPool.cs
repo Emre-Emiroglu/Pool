@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMPool.Runtime
+namespace Pool.Runtime
 {
     /// <summary>
     /// A pool that manages MonoBehaviour-based objects, providing methods to create, retrieve, return, and destroy them.

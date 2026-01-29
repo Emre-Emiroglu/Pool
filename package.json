@@ -1,8 +1,8 @@
 {
-  "name": "com.emreemiroglu.hmpool",
+  "name": "com.emreemiroglu.pool",
   "version": "1.0.0",
-  "displayName": "HMPool",
-  "description": "HMPool provides a modular object pool system for Unity, creating and managing pools for MonoBehaviour and pure C# classes.",
+  "displayName": "Pool",
+  "description": "Pool provides a modular object pool system for Unity, creating and managing pools for MonoBehaviour and pure C# classes.",
   "author": {
     "name": "Emre Emiroglu",
     "email": "emirogluemre08@gmail.com",
@@ -14,6 +14,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Emre-Emiroglu/HMPool.git"
+    "url": "https://github.com/Emre-Emiroglu/Pool.git"
   }
 }

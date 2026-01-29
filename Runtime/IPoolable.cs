@@ -1,4 +1,4 @@
-﻿namespace HMPool.Runtime
+﻿namespace Pool.Runtime
 {
     /// <summary>
     /// Interface to be implemented by poolable objects that can be managed in a pool.

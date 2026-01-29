@@ -1,6 +1,6 @@
 {
-    "name": "HMPool.Runtime",
-    "rootNamespace": "HMPool.Runtime",
+    "name": "Pool.Runtime",
+    "rootNamespace": "Pool.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

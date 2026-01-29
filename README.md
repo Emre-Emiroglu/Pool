@@ -1,10 +1,8 @@
-<img src="icon.jpg" width="512" height="512" alt="HMPool Logo">
-
-# HMPool
+# Pool
 HMPool is a modular object pool system designed for Unity. It manages pools for both MonoBehaviour and pure C# classes, optimizing performance by eliminating unnecessary object creation and destruction.
 
 ## Features
-HMPool offers a flexible and efficient object pooling solution:
+Pool offers a flexible and efficient object pooling solution:
 * Object Pool Management: Creates and manages separate pools for MonoBehaviour and pure C# classes.
 * Dynamic Pool Management: Pools are automatically created when needed, and objects are released when no longer in use.
 * Performance Optimization: Reduces the overhead of frequent object instantiations and destruction by reusing objects.
@@ -13,7 +11,7 @@ HMPool offers a flexible and efficient object pooling solution:
 ## Getting Started
 Install via UPM with git URL
 
-`https://github.com/Emre-Emiroglu/HMPool.git`
+`https://github.com/Emre-Emiroglu/Pool.git`
 
 Clone the repository
 ```bash

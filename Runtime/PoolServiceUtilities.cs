@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace HMPool.Runtime
+namespace Pool.Runtime
 {
 	/// <summary>
 	/// The PoolServiceUtilities class provides static methods for interacting with the PoolService.

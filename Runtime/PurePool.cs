@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HMPool.Runtime
+namespace Pool.Runtime
 {
     /// <summary>
     /// A pool that manages class-based objects (non-MonoBehaviour), providing methods to create, retrieve, return, and destroy them.

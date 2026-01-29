@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace HMPool.Runtime
+namespace Pool.Runtime
 {
     /// <summary>
     /// Custom property drawer for the PoolDatum structure in the Unity Editor.

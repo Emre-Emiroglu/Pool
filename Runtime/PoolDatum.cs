@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace HMPool.Runtime
+namespace Pool.Runtime
 {
     /// <summary>
     /// PoolDatum defines the configuration for a single object pool.
