@@ -1,5 +1,5 @@
 # Pool
-HMPool is a modular object pool system designed for Unity. It manages pools for both MonoBehaviour and pure C# classes, optimizing performance by eliminating unnecessary object creation and destruction.
+Pool is a modular object pool system designed for Unity. It manages pools for both MonoBehaviour and pure C# classes, optimizing performance by eliminating unnecessary object creation and destruction.
 
 ## Features
 Pool offers a flexible and efficient object pooling solution:
